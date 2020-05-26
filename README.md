@@ -1,2 +1,3 @@
-# tutorials
-A set of tutorials for ITBA students.
+# Tutoriales
+
+Los tutoriales se encuentran en la [Wiki](https://github.com/mbrula/tutorials/wiki) del repositorio.
